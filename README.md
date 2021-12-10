@@ -1,2 +1,2 @@
-# HALIDE_C-_Images_Processing
+# HALIDE_C_Images_Processing
 Images Processing Using HALIDE and C++
